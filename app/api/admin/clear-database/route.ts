@@ -2,7 +2,7 @@
 import { NextResponse } from 'next/server';
 import { firebaseDb } from '@/lib/db';
 
-export async function POST(request: Request) {
+export async function POST(_request: Request) {
   try {
     await firebaseDb.clearRoadmaps();
     return NextResponse.json({ success: true, message: 'Database cleared successfully' });
