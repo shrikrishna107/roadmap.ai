@@ -1,0 +1,4762 @@
+[
+  {
+    "id": "sample-roadmap-1",
+    "topic": "Sample Topic",
+    "overview": "This is a sample roadmap for testing",
+    "duration": 12,
+    "weeks": [
+      {
+        "week": 1,
+        "title": "Week 1: Sample Week",
+        "description": "Sample description",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "Sample Video",
+              "url": "https://youtube.com/example"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "Sample Doc",
+              "url": "https://example.com/docs"
+            }
+          ]
+        },
+        "project": "Sample project",
+        "completed": true
+      },
+      {
+        "week": 2,
+        "title": "Week 2: Sample Week",
+        "description": "Sample description",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "Sample Video",
+              "url": "https://youtube.com/example"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "Sample Doc",
+              "url": "https://example.com/docs"
+            }
+          ]
+        },
+        "project": "Sample project",
+        "completed": true
+      },
+      {
+        "week": 3,
+        "title": "Week 3: Sample Week",
+        "description": "Sample description",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "Sample Video",
+              "url": "https://youtube.com/example"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "Sample Doc",
+              "url": "https://example.com/docs"
+            }
+          ]
+        },
+        "project": "Sample project",
+        "completed": true
+      },
+      {
+        "week": 4,
+        "title": "Week 4: Sample Week",
+        "description": "Sample description",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "Sample Video",
+              "url": "https://youtube.com/example"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "Sample Doc",
+              "url": "https://example.com/docs"
+            }
+          ]
+        },
+        "project": "Sample project",
+        "completed": true
+      },
+      {
+        "week": 5,
+        "title": "Week 5: Sample Week",
+        "description": "Sample description",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "Sample Video",
+              "url": "https://youtube.com/example"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "Sample Doc",
+              "url": "https://example.com/docs"
+            }
+          ]
+        },
+        "project": "Sample project",
+        "completed": true
+      },
+      {
+        "week": 6,
+        "title": "Week 6: Sample Week",
+        "description": "Sample description",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "Sample Video",
+              "url": "https://youtube.com/example"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "Sample Doc",
+              "url": "https://example.com/docs"
+            }
+          ]
+        },
+        "project": "Sample project",
+        "completed": true
+      },
+      {
+        "week": 7,
+        "title": "Week 7: Sample Week",
+        "description": "Sample description",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "Sample Video",
+              "url": "https://youtube.com/example"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "Sample Doc",
+              "url": "https://example.com/docs"
+            }
+          ]
+        },
+        "project": "Sample project",
+        "completed": false
+      },
+      {
+        "week": 8,
+        "title": "Week 8: Sample Week",
+        "description": "Sample description",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "Sample Video",
+              "url": "https://youtube.com/example"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "Sample Doc",
+              "url": "https://example.com/docs"
+            }
+          ]
+        },
+        "project": "Sample project",
+        "completed": false
+      },
+      {
+        "week": 9,
+        "title": "Week 9: Sample Week",
+        "description": "Sample description",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "Sample Video",
+              "url": "https://youtube.com/example"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "Sample Doc",
+              "url": "https://example.com/docs"
+            }
+          ]
+        },
+        "project": "Sample project",
+        "completed": false
+      },
+      {
+        "week": 10,
+        "title": "Week 10: Sample Week",
+        "description": "Sample description",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "Sample Video",
+              "url": "https://youtube.com/example"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "Sample Doc",
+              "url": "https://example.com/docs"
+            }
+          ]
+        },
+        "project": "Sample project",
+        "completed": false
+      },
+      {
+        "week": 11,
+        "title": "Week 11: Sample Week",
+        "description": "Sample description",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "Sample Video",
+              "url": "https://youtube.com/example"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "Sample Doc",
+              "url": "https://example.com/docs"
+            }
+          ]
+        },
+        "project": "Sample project",
+        "completed": false
+      },
+      {
+        "week": 12,
+        "title": "Week 12: Sample Week",
+        "description": "Sample description",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "Sample Video",
+              "url": "https://youtube.com/example"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "Sample Doc",
+              "url": "https://example.com/docs"
+            }
+          ]
+        },
+        "project": "Sample project",
+        "completed": false
+      }
+    ],
+    "createdAt": "2025-05-17T21:28:01.926Z",
+    "progress": 50,
+    "isCompleted": false,
+    "userId": ""
+  },
+  {
+    "id": "1747517289543",
+    "topic": "web development",
+    "overview": "Comprehensive roadmap to master web development",
+    "duration": 16,
+    "weeks": [
+      {
+        "week": 1,
+        "title": "Week 1: Introduction to web development - Part 1",
+        "description": "Core concepts and fundamentals for week 1",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 1",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 1",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 1",
+        "completed": true
+      },
+      {
+        "week": 2,
+        "title": "Week 2: Introduction to web development - Part 2",
+        "description": "Core concepts and fundamentals for week 2",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 2",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 2",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 2",
+        "completed": true
+      },
+      {
+        "week": 3,
+        "title": "Week 3: Introduction to web development - Part 3",
+        "description": "Core concepts and fundamentals for week 3",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 3",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 3",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 3",
+        "completed": true
+      },
+      {
+        "week": 4,
+        "title": "Week 4: Introduction to web development - Part 4",
+        "description": "Core concepts and fundamentals for week 4",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 4",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 4",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 4",
+        "completed": true
+      },
+      {
+        "week": 5,
+        "title": "Week 5: Introduction to web development - Part 5",
+        "description": "Core concepts and fundamentals for week 5",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 5",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 5",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 5",
+        "completed": true
+      },
+      {
+        "week": 6,
+        "title": "Week 6: Introduction to web development - Part 6",
+        "description": "Core concepts and fundamentals for week 6",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 6",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 6",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 6",
+        "completed": true
+      },
+      {
+        "week": 7,
+        "title": "Week 7: Introduction to web development - Part 7",
+        "description": "Core concepts and fundamentals for week 7",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 7",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 7",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 7",
+        "completed": true
+      },
+      {
+        "week": 8,
+        "title": "Week 8: Introduction to web development - Part 8",
+        "description": "Core concepts and fundamentals for week 8",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 8",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 8",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 8",
+        "completed": true
+      },
+      {
+        "week": 9,
+        "title": "Week 9: Introduction to web development - Part 9",
+        "description": "Core concepts and fundamentals for week 9",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 9",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 9",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 9",
+        "completed": true
+      },
+      {
+        "week": 10,
+        "title": "Week 10: Introduction to web development - Part 10",
+        "description": "Core concepts and fundamentals for week 10",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 10",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 10",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 10",
+        "completed": true
+      },
+      {
+        "week": 11,
+        "title": "Week 11: Introduction to web development - Part 11",
+        "description": "Core concepts and fundamentals for week 11",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 11",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 11",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 11",
+        "completed": true
+      },
+      {
+        "week": 12,
+        "title": "Week 12: Introduction to web development - Part 12",
+        "description": "Core concepts and fundamentals for week 12",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 12",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 12",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 12",
+        "completed": true
+      },
+      {
+        "week": 13,
+        "title": "Week 13: Introduction to web development - Part 13",
+        "description": "Core concepts and fundamentals for week 13",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 13",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 13",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 13",
+        "completed": true
+      },
+      {
+        "week": 14,
+        "title": "Week 14: Introduction to web development - Part 14",
+        "description": "Core concepts and fundamentals for week 14",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 14",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 14",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 14",
+        "completed": true
+      },
+      {
+        "week": 15,
+        "title": "Week 15: Introduction to web development - Part 15",
+        "description": "Core concepts and fundamentals for week 15",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 15",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 15",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 15",
+        "completed": true
+      },
+      {
+        "week": 16,
+        "title": "Week 16: Introduction to web development - Part 16",
+        "description": "Core concepts and fundamentals for week 16",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 16",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 16",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 16",
+        "completed": true
+      }
+    ],
+    "createdAt": "2025-05-17T21:28:09.543Z",
+    "progress": 100,
+    "isCompleted": true,
+    "userId": ""
+  },
+  {
+    "id": "1747517363891",
+    "topic": "web development",
+    "overview": "Comprehensive roadmap to master web development",
+    "duration": 16,
+    "weeks": [
+      {
+        "week": 1,
+        "title": "Week 1: Introduction to web development - Part 1",
+        "description": "Core concepts and fundamentals for week 1",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 1",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 1",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 1",
+        "completed": false
+      },
+      {
+        "week": 2,
+        "title": "Week 2: Introduction to web development - Part 2",
+        "description": "Core concepts and fundamentals for week 2",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 2",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 2",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 2",
+        "completed": false
+      },
+      {
+        "week": 3,
+        "title": "Week 3: Introduction to web development - Part 3",
+        "description": "Core concepts and fundamentals for week 3",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 3",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 3",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 3",
+        "completed": false
+      },
+      {
+        "week": 4,
+        "title": "Week 4: Introduction to web development - Part 4",
+        "description": "Core concepts and fundamentals for week 4",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 4",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 4",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 4",
+        "completed": false
+      },
+      {
+        "week": 5,
+        "title": "Week 5: Introduction to web development - Part 5",
+        "description": "Core concepts and fundamentals for week 5",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 5",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 5",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 5",
+        "completed": false
+      },
+      {
+        "week": 6,
+        "title": "Week 6: Introduction to web development - Part 6",
+        "description": "Core concepts and fundamentals for week 6",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 6",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 6",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 6",
+        "completed": false
+      },
+      {
+        "week": 7,
+        "title": "Week 7: Introduction to web development - Part 7",
+        "description": "Core concepts and fundamentals for week 7",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 7",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 7",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 7",
+        "completed": false
+      },
+      {
+        "week": 8,
+        "title": "Week 8: Introduction to web development - Part 8",
+        "description": "Core concepts and fundamentals for week 8",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 8",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 8",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 8",
+        "completed": false
+      },
+      {
+        "week": 9,
+        "title": "Week 9: Introduction to web development - Part 9",
+        "description": "Core concepts and fundamentals for week 9",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 9",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 9",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 9",
+        "completed": false
+      },
+      {
+        "week": 10,
+        "title": "Week 10: Introduction to web development - Part 10",
+        "description": "Core concepts and fundamentals for week 10",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 10",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 10",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 10",
+        "completed": false
+      },
+      {
+        "week": 11,
+        "title": "Week 11: Introduction to web development - Part 11",
+        "description": "Core concepts and fundamentals for week 11",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 11",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 11",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 11",
+        "completed": false
+      },
+      {
+        "week": 12,
+        "title": "Week 12: Introduction to web development - Part 12",
+        "description": "Core concepts and fundamentals for week 12",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 12",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 12",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 12",
+        "completed": false
+      },
+      {
+        "week": 13,
+        "title": "Week 13: Introduction to web development - Part 13",
+        "description": "Core concepts and fundamentals for week 13",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 13",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 13",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 13",
+        "completed": false
+      },
+      {
+        "week": 14,
+        "title": "Week 14: Introduction to web development - Part 14",
+        "description": "Core concepts and fundamentals for week 14",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 14",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 14",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 14",
+        "completed": false
+      },
+      {
+        "week": 15,
+        "title": "Week 15: Introduction to web development - Part 15",
+        "description": "Core concepts and fundamentals for week 15",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 15",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 15",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 15",
+        "completed": false
+      },
+      {
+        "week": 16,
+        "title": "Week 16: Introduction to web development - Part 16",
+        "description": "Core concepts and fundamentals for week 16",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 16",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 16",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 16",
+        "completed": false
+      }
+    ],
+    "createdAt": "2025-05-17T21:29:23.891Z",
+    "progress": 0,
+    "isCompleted": false,
+    "userId": ""
+  },
+  {
+    "id": "1747518824935",
+    "topic": "web development",
+    "overview": "Comprehensive roadmap to master web development",
+    "duration": 16,
+    "weeks": [
+      {
+        "week": 1,
+        "title": "Week 1: Introduction to web development - Part 1",
+        "description": "Core concepts and fundamentals for week 1",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 1",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 1",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 1",
+        "completed": false
+      },
+      {
+        "week": 2,
+        "title": "Week 2: Introduction to web development - Part 2",
+        "description": "Core concepts and fundamentals for week 2",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 2",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 2",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 2",
+        "completed": false
+      },
+      {
+        "week": 3,
+        "title": "Week 3: Introduction to web development - Part 3",
+        "description": "Core concepts and fundamentals for week 3",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 3",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 3",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 3",
+        "completed": false
+      },
+      {
+        "week": 4,
+        "title": "Week 4: Introduction to web development - Part 4",
+        "description": "Core concepts and fundamentals for week 4",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 4",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 4",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 4",
+        "completed": false
+      },
+      {
+        "week": 5,
+        "title": "Week 5: Introduction to web development - Part 5",
+        "description": "Core concepts and fundamentals for week 5",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 5",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 5",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 5",
+        "completed": false
+      },
+      {
+        "week": 6,
+        "title": "Week 6: Introduction to web development - Part 6",
+        "description": "Core concepts and fundamentals for week 6",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 6",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 6",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 6",
+        "completed": false
+      },
+      {
+        "week": 7,
+        "title": "Week 7: Introduction to web development - Part 7",
+        "description": "Core concepts and fundamentals for week 7",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 7",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 7",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 7",
+        "completed": false
+      },
+      {
+        "week": 8,
+        "title": "Week 8: Introduction to web development - Part 8",
+        "description": "Core concepts and fundamentals for week 8",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 8",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 8",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 8",
+        "completed": false
+      },
+      {
+        "week": 9,
+        "title": "Week 9: Introduction to web development - Part 9",
+        "description": "Core concepts and fundamentals for week 9",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 9",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 9",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 9",
+        "completed": false
+      },
+      {
+        "week": 10,
+        "title": "Week 10: Introduction to web development - Part 10",
+        "description": "Core concepts and fundamentals for week 10",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 10",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 10",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 10",
+        "completed": false
+      },
+      {
+        "week": 11,
+        "title": "Week 11: Introduction to web development - Part 11",
+        "description": "Core concepts and fundamentals for week 11",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 11",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 11",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 11",
+        "completed": false
+      },
+      {
+        "week": 12,
+        "title": "Week 12: Introduction to web development - Part 12",
+        "description": "Core concepts and fundamentals for week 12",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 12",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 12",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 12",
+        "completed": false
+      },
+      {
+        "week": 13,
+        "title": "Week 13: Introduction to web development - Part 13",
+        "description": "Core concepts and fundamentals for week 13",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 13",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 13",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 13",
+        "completed": false
+      },
+      {
+        "week": 14,
+        "title": "Week 14: Introduction to web development - Part 14",
+        "description": "Core concepts and fundamentals for week 14",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 14",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 14",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 14",
+        "completed": false
+      },
+      {
+        "week": 15,
+        "title": "Week 15: Introduction to web development - Part 15",
+        "description": "Core concepts and fundamentals for week 15",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 15",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 15",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 15",
+        "completed": false
+      },
+      {
+        "week": 16,
+        "title": "Week 16: Introduction to web development - Part 16",
+        "description": "Core concepts and fundamentals for week 16",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "web development Tutorial 16",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced web development Concepts 16",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "web development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "web development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple web development project 16",
+        "completed": false
+      }
+    ],
+    "createdAt": "2025-05-17T21:53:44.935Z",
+    "progress": 0,
+    "isCompleted": false,
+    "userId": ""
+  },
+  {
+    "id": "1747575174347",
+    "topic": "learn react from scratch",
+    "overview": "Comprehensive roadmap to master learn react from scratch",
+    "duration": 16,
+    "weeks": [
+      {
+        "week": 1,
+        "title": "Week 1: Introduction to learn react from scratch - Part 1",
+        "description": "Core concepts and fundamentals for week 1",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 1",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 1",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 1",
+        "completed": true
+      },
+      {
+        "week": 2,
+        "title": "Week 2: Introduction to learn react from scratch - Part 2",
+        "description": "Core concepts and fundamentals for week 2",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 2",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 2",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 2",
+        "completed": true
+      },
+      {
+        "week": 3,
+        "title": "Week 3: Introduction to learn react from scratch - Part 3",
+        "description": "Core concepts and fundamentals for week 3",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 3",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 3",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 3",
+        "completed": true
+      },
+      {
+        "week": 4,
+        "title": "Week 4: Introduction to learn react from scratch - Part 4",
+        "description": "Core concepts and fundamentals for week 4",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 4",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 4",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 4",
+        "completed": true
+      },
+      {
+        "week": 5,
+        "title": "Week 5: Introduction to learn react from scratch - Part 5",
+        "description": "Core concepts and fundamentals for week 5",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 5",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 5",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 5",
+        "completed": true
+      },
+      {
+        "week": 6,
+        "title": "Week 6: Introduction to learn react from scratch - Part 6",
+        "description": "Core concepts and fundamentals for week 6",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 6",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 6",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 6",
+        "completed": true
+      },
+      {
+        "week": 7,
+        "title": "Week 7: Introduction to learn react from scratch - Part 7",
+        "description": "Core concepts and fundamentals for week 7",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 7",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 7",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 7",
+        "completed": true
+      },
+      {
+        "week": 8,
+        "title": "Week 8: Introduction to learn react from scratch - Part 8",
+        "description": "Core concepts and fundamentals for week 8",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 8",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 8",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 8",
+        "completed": true
+      },
+      {
+        "week": 9,
+        "title": "Week 9: Introduction to learn react from scratch - Part 9",
+        "description": "Core concepts and fundamentals for week 9",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 9",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 9",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 9",
+        "completed": true
+      },
+      {
+        "week": 10,
+        "title": "Week 10: Introduction to learn react from scratch - Part 10",
+        "description": "Core concepts and fundamentals for week 10",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 10",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 10",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 10",
+        "completed": true
+      },
+      {
+        "week": 11,
+        "title": "Week 11: Introduction to learn react from scratch - Part 11",
+        "description": "Core concepts and fundamentals for week 11",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 11",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 11",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 11",
+        "completed": true
+      },
+      {
+        "week": 12,
+        "title": "Week 12: Introduction to learn react from scratch - Part 12",
+        "description": "Core concepts and fundamentals for week 12",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 12",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 12",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 12",
+        "completed": true
+      },
+      {
+        "week": 13,
+        "title": "Week 13: Introduction to learn react from scratch - Part 13",
+        "description": "Core concepts and fundamentals for week 13",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 13",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 13",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 13",
+        "completed": true
+      },
+      {
+        "week": 14,
+        "title": "Week 14: Introduction to learn react from scratch - Part 14",
+        "description": "Core concepts and fundamentals for week 14",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 14",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 14",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 14",
+        "completed": true
+      },
+      {
+        "week": 15,
+        "title": "Week 15: Introduction to learn react from scratch - Part 15",
+        "description": "Core concepts and fundamentals for week 15",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 15",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 15",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 15",
+        "completed": true
+      },
+      {
+        "week": 16,
+        "title": "Week 16: Introduction to learn react from scratch - Part 16",
+        "description": "Core concepts and fundamentals for week 16",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 16",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 16",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 16",
+        "completed": true
+      }
+    ],
+    "createdAt": "2025-05-18T13:32:54.347Z",
+    "progress": 100,
+    "isCompleted": true,
+    "userId": ""
+  },
+  {
+    "id": "1747577609601",
+    "topic": "learn react from scratch",
+    "overview": "Comprehensive roadmap to master learn react from scratch",
+    "duration": 16,
+    "weeks": [
+      {
+        "week": 1,
+        "title": "Week 1: Introduction to learn react from scratch - Part 1",
+        "description": "Core concepts and fundamentals for week 1",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 1",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 1",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 1",
+        "completed": false
+      },
+      {
+        "week": 2,
+        "title": "Week 2: Introduction to learn react from scratch - Part 2",
+        "description": "Core concepts and fundamentals for week 2",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 2",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 2",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 2",
+        "completed": false
+      },
+      {
+        "week": 3,
+        "title": "Week 3: Introduction to learn react from scratch - Part 3",
+        "description": "Core concepts and fundamentals for week 3",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 3",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 3",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 3",
+        "completed": false
+      },
+      {
+        "week": 4,
+        "title": "Week 4: Introduction to learn react from scratch - Part 4",
+        "description": "Core concepts and fundamentals for week 4",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 4",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 4",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 4",
+        "completed": false
+      },
+      {
+        "week": 5,
+        "title": "Week 5: Introduction to learn react from scratch - Part 5",
+        "description": "Core concepts and fundamentals for week 5",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 5",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 5",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 5",
+        "completed": false
+      },
+      {
+        "week": 6,
+        "title": "Week 6: Introduction to learn react from scratch - Part 6",
+        "description": "Core concepts and fundamentals for week 6",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 6",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 6",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 6",
+        "completed": false
+      },
+      {
+        "week": 7,
+        "title": "Week 7: Introduction to learn react from scratch - Part 7",
+        "description": "Core concepts and fundamentals for week 7",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 7",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 7",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 7",
+        "completed": false
+      },
+      {
+        "week": 8,
+        "title": "Week 8: Introduction to learn react from scratch - Part 8",
+        "description": "Core concepts and fundamentals for week 8",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 8",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 8",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 8",
+        "completed": false
+      },
+      {
+        "week": 9,
+        "title": "Week 9: Introduction to learn react from scratch - Part 9",
+        "description": "Core concepts and fundamentals for week 9",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 9",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 9",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 9",
+        "completed": false
+      },
+      {
+        "week": 10,
+        "title": "Week 10: Introduction to learn react from scratch - Part 10",
+        "description": "Core concepts and fundamentals for week 10",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 10",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 10",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 10",
+        "completed": false
+      },
+      {
+        "week": 11,
+        "title": "Week 11: Introduction to learn react from scratch - Part 11",
+        "description": "Core concepts and fundamentals for week 11",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 11",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 11",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 11",
+        "completed": false
+      },
+      {
+        "week": 12,
+        "title": "Week 12: Introduction to learn react from scratch - Part 12",
+        "description": "Core concepts and fundamentals for week 12",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 12",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 12",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 12",
+        "completed": false
+      },
+      {
+        "week": 13,
+        "title": "Week 13: Introduction to learn react from scratch - Part 13",
+        "description": "Core concepts and fundamentals for week 13",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 13",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 13",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 13",
+        "completed": false
+      },
+      {
+        "week": 14,
+        "title": "Week 14: Introduction to learn react from scratch - Part 14",
+        "description": "Core concepts and fundamentals for week 14",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 14",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 14",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 14",
+        "completed": false
+      },
+      {
+        "week": 15,
+        "title": "Week 15: Introduction to learn react from scratch - Part 15",
+        "description": "Core concepts and fundamentals for week 15",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 15",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 15",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 15",
+        "completed": false
+      },
+      {
+        "week": 16,
+        "title": "Week 16: Introduction to learn react from scratch - Part 16",
+        "description": "Core concepts and fundamentals for week 16",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 16",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 16",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 16",
+        "completed": false
+      }
+    ],
+    "createdAt": "2025-05-18T14:13:29.601Z",
+    "progress": 0,
+    "isCompleted": false,
+    "userId": ""
+  },
+  {
+    "id": "1747577817688",
+    "topic": "learn react from scratch",
+    "overview": "Comprehensive roadmap to master learn react from scratch",
+    "duration": 16,
+    "weeks": [
+      {
+        "week": 1,
+        "title": "Week 1: Introduction to learn react from scratch - Part 1",
+        "description": "Core concepts and fundamentals for week 1",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 1",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 1",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 1",
+        "completed": false
+      },
+      {
+        "week": 2,
+        "title": "Week 2: Introduction to learn react from scratch - Part 2",
+        "description": "Core concepts and fundamentals for week 2",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 2",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 2",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 2",
+        "completed": false
+      },
+      {
+        "week": 3,
+        "title": "Week 3: Introduction to learn react from scratch - Part 3",
+        "description": "Core concepts and fundamentals for week 3",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 3",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 3",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 3",
+        "completed": false
+      },
+      {
+        "week": 4,
+        "title": "Week 4: Introduction to learn react from scratch - Part 4",
+        "description": "Core concepts and fundamentals for week 4",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 4",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 4",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 4",
+        "completed": false
+      },
+      {
+        "week": 5,
+        "title": "Week 5: Introduction to learn react from scratch - Part 5",
+        "description": "Core concepts and fundamentals for week 5",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 5",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 5",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 5",
+        "completed": false
+      },
+      {
+        "week": 6,
+        "title": "Week 6: Introduction to learn react from scratch - Part 6",
+        "description": "Core concepts and fundamentals for week 6",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 6",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 6",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 6",
+        "completed": false
+      },
+      {
+        "week": 7,
+        "title": "Week 7: Introduction to learn react from scratch - Part 7",
+        "description": "Core concepts and fundamentals for week 7",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 7",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 7",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 7",
+        "completed": false
+      },
+      {
+        "week": 8,
+        "title": "Week 8: Introduction to learn react from scratch - Part 8",
+        "description": "Core concepts and fundamentals for week 8",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 8",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 8",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 8",
+        "completed": false
+      },
+      {
+        "week": 9,
+        "title": "Week 9: Introduction to learn react from scratch - Part 9",
+        "description": "Core concepts and fundamentals for week 9",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 9",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 9",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 9",
+        "completed": false
+      },
+      {
+        "week": 10,
+        "title": "Week 10: Introduction to learn react from scratch - Part 10",
+        "description": "Core concepts and fundamentals for week 10",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 10",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 10",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 10",
+        "completed": false
+      },
+      {
+        "week": 11,
+        "title": "Week 11: Introduction to learn react from scratch - Part 11",
+        "description": "Core concepts and fundamentals for week 11",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 11",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 11",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 11",
+        "completed": false
+      },
+      {
+        "week": 12,
+        "title": "Week 12: Introduction to learn react from scratch - Part 12",
+        "description": "Core concepts and fundamentals for week 12",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 12",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 12",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 12",
+        "completed": false
+      },
+      {
+        "week": 13,
+        "title": "Week 13: Introduction to learn react from scratch - Part 13",
+        "description": "Core concepts and fundamentals for week 13",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 13",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 13",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 13",
+        "completed": false
+      },
+      {
+        "week": 14,
+        "title": "Week 14: Introduction to learn react from scratch - Part 14",
+        "description": "Core concepts and fundamentals for week 14",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 14",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 14",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 14",
+        "completed": false
+      },
+      {
+        "week": 15,
+        "title": "Week 15: Introduction to learn react from scratch - Part 15",
+        "description": "Core concepts and fundamentals for week 15",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 15",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 15",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 15",
+        "completed": false
+      },
+      {
+        "week": 16,
+        "title": "Week 16: Introduction to learn react from scratch - Part 16",
+        "description": "Core concepts and fundamentals for week 16",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "learn react from scratch Tutorial 16",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced learn react from scratch Concepts 16",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "learn react from scratch Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "learn react from scratch Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple learn react from scratch project 16",
+        "completed": false
+      }
+    ],
+    "createdAt": "2025-05-18T14:16:57.688Z",
+    "progress": 0,
+    "isCompleted": false,
+    "userId": ""
+  },
+  {
+    "id": "1747582957957",
+    "topic": "app development",
+    "overview": "Comprehensive roadmap to master app development",
+    "duration": 16,
+    "weeks": [
+      {
+        "week": 1,
+        "title": "Week 1: Introduction to app development - Part 1",
+        "description": "Core concepts and fundamentals for week 1",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 1",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 1",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 1",
+        "completed": true
+      },
+      {
+        "week": 2,
+        "title": "Week 2: Introduction to app development - Part 2",
+        "description": "Core concepts and fundamentals for week 2",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 2",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 2",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 2",
+        "completed": true
+      },
+      {
+        "week": 3,
+        "title": "Week 3: Introduction to app development - Part 3",
+        "description": "Core concepts and fundamentals for week 3",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 3",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 3",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 3",
+        "completed": true
+      },
+      {
+        "week": 4,
+        "title": "Week 4: Introduction to app development - Part 4",
+        "description": "Core concepts and fundamentals for week 4",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 4",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 4",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 4",
+        "completed": true
+      },
+      {
+        "week": 5,
+        "title": "Week 5: Introduction to app development - Part 5",
+        "description": "Core concepts and fundamentals for week 5",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 5",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 5",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 5",
+        "completed": true
+      },
+      {
+        "week": 6,
+        "title": "Week 6: Introduction to app development - Part 6",
+        "description": "Core concepts and fundamentals for week 6",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 6",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 6",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 6",
+        "completed": true
+      },
+      {
+        "week": 7,
+        "title": "Week 7: Introduction to app development - Part 7",
+        "description": "Core concepts and fundamentals for week 7",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 7",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 7",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 7",
+        "completed": true
+      },
+      {
+        "week": 8,
+        "title": "Week 8: Introduction to app development - Part 8",
+        "description": "Core concepts and fundamentals for week 8",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 8",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 8",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 8",
+        "completed": true
+      },
+      {
+        "week": 9,
+        "title": "Week 9: Introduction to app development - Part 9",
+        "description": "Core concepts and fundamentals for week 9",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 9",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 9",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 9",
+        "completed": true
+      },
+      {
+        "week": 10,
+        "title": "Week 10: Introduction to app development - Part 10",
+        "description": "Core concepts and fundamentals for week 10",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 10",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 10",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 10",
+        "completed": true
+      },
+      {
+        "week": 11,
+        "title": "Week 11: Introduction to app development - Part 11",
+        "description": "Core concepts and fundamentals for week 11",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 11",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 11",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 11",
+        "completed": true
+      },
+      {
+        "week": 12,
+        "title": "Week 12: Introduction to app development - Part 12",
+        "description": "Core concepts and fundamentals for week 12",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 12",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 12",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 12",
+        "completed": true
+      },
+      {
+        "week": 13,
+        "title": "Week 13: Introduction to app development - Part 13",
+        "description": "Core concepts and fundamentals for week 13",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 13",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 13",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 13",
+        "completed": true
+      },
+      {
+        "week": 14,
+        "title": "Week 14: Introduction to app development - Part 14",
+        "description": "Core concepts and fundamentals for week 14",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 14",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 14",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 14",
+        "completed": true
+      },
+      {
+        "week": 15,
+        "title": "Week 15: Introduction to app development - Part 15",
+        "description": "Core concepts and fundamentals for week 15",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 15",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 15",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 15",
+        "completed": true
+      },
+      {
+        "week": 16,
+        "title": "Week 16: Introduction to app development - Part 16",
+        "description": "Core concepts and fundamentals for week 16",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 16",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 16",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 16",
+        "completed": true
+      }
+    ],
+    "createdAt": "2025-05-18T15:42:37.957Z",
+    "progress": 100,
+    "isCompleted": true,
+    "userId": ""
+  },
+  {
+    "id": "1747584668748",
+    "topic": "app development",
+    "overview": "Comprehensive roadmap to master app development",
+    "duration": 16,
+    "weeks": [
+      {
+        "week": 1,
+        "title": "Week 1: Introduction to app development - Part 1",
+        "description": "Core concepts and fundamentals for week 1",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 1",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 1",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 1",
+        "completed": true
+      },
+      {
+        "week": 2,
+        "title": "Week 2: Introduction to app development - Part 2",
+        "description": "Core concepts and fundamentals for week 2",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 2",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 2",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 2",
+        "completed": true
+      },
+      {
+        "week": 3,
+        "title": "Week 3: Introduction to app development - Part 3",
+        "description": "Core concepts and fundamentals for week 3",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 3",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 3",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 3",
+        "completed": true
+      },
+      {
+        "week": 4,
+        "title": "Week 4: Introduction to app development - Part 4",
+        "description": "Core concepts and fundamentals for week 4",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 4",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 4",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 4",
+        "completed": true
+      },
+      {
+        "week": 5,
+        "title": "Week 5: Introduction to app development - Part 5",
+        "description": "Core concepts and fundamentals for week 5",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 5",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 5",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 5",
+        "completed": true
+      },
+      {
+        "week": 6,
+        "title": "Week 6: Introduction to app development - Part 6",
+        "description": "Core concepts and fundamentals for week 6",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 6",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 6",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 6",
+        "completed": true
+      },
+      {
+        "week": 7,
+        "title": "Week 7: Introduction to app development - Part 7",
+        "description": "Core concepts and fundamentals for week 7",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 7",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 7",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 7",
+        "completed": true
+      },
+      {
+        "week": 8,
+        "title": "Week 8: Introduction to app development - Part 8",
+        "description": "Core concepts and fundamentals for week 8",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 8",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 8",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 8",
+        "completed": true
+      },
+      {
+        "week": 9,
+        "title": "Week 9: Introduction to app development - Part 9",
+        "description": "Core concepts and fundamentals for week 9",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 9",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 9",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 9",
+        "completed": true
+      },
+      {
+        "week": 10,
+        "title": "Week 10: Introduction to app development - Part 10",
+        "description": "Core concepts and fundamentals for week 10",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 10",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 10",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 10",
+        "completed": true
+      },
+      {
+        "week": 11,
+        "title": "Week 11: Introduction to app development - Part 11",
+        "description": "Core concepts and fundamentals for week 11",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 11",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 11",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 11",
+        "completed": true
+      },
+      {
+        "week": 12,
+        "title": "Week 12: Introduction to app development - Part 12",
+        "description": "Core concepts and fundamentals for week 12",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 12",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 12",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 12",
+        "completed": true
+      },
+      {
+        "week": 13,
+        "title": "Week 13: Introduction to app development - Part 13",
+        "description": "Core concepts and fundamentals for week 13",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 13",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 13",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 13",
+        "completed": true
+      },
+      {
+        "week": 14,
+        "title": "Week 14: Introduction to app development - Part 14",
+        "description": "Core concepts and fundamentals for week 14",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 14",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 14",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 14",
+        "completed": true
+      },
+      {
+        "week": 15,
+        "title": "Week 15: Introduction to app development - Part 15",
+        "description": "Core concepts and fundamentals for week 15",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 15",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 15",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 15",
+        "completed": true
+      },
+      {
+        "week": 16,
+        "title": "Week 16: Introduction to app development - Part 16",
+        "description": "Core concepts and fundamentals for week 16",
+        "subtopics": [
+          "Subtopic 1",
+          "Subtopic 2",
+          "Subtopic 3"
+        ],
+        "resources": {
+          "videos": [
+            {
+              "title": "app development Tutorial 16",
+              "url": "https://youtube.com/example1"
+            },
+            {
+              "title": "Advanced app development Concepts 16",
+              "url": "https://youtube.com/example2"
+            }
+          ],
+          "documentation": [
+            {
+              "title": "app development Documentation",
+              "url": "https://example.com/docs"
+            },
+            {
+              "title": "app development Best Practices",
+              "url": "https://example.com/best-practices"
+            }
+          ]
+        },
+        "project": "Build a simple app development project 16",
+        "completed": true
+      }
+    ],
+    "createdAt": "2025-05-18T16:11:08.748Z",
+    "progress": 100,
+    "isCompleted": true,
+    "userId": ""
+  }
+]
