@@ -10,7 +10,7 @@ export default function CreateRoadmap() {
   const router = useRouter();
   const { user } = useAuth();
 
-  const handleSubmit = async (e) => {
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
 
     if (!topic.trim()) return;
@@ -32,11 +32,14 @@ export default function CreateRoadmap() {
       if (response.ok) {
         router.push(`/roadmap/${data.roadmap.id}`);
       } else {
-        alert('Error: ' + data.error);
+        alert('Error: ' + (data.error || 'Unknown error'));
       }
-    } catch (error) {
-      console.error('Error:', error);
-      alert('Failed to generate roadmap. Please try again.');
+    } catch (error: unknown) {
+      if (error instanceof Error) {
+        alert('Failed to generate roadmap: ' + error.message);
+      } else {
+        alert('Failed to generate roadmap. Please try again.');
+      }
     } finally {
       setIsLoading(false);
     }
@@ -61,7 +64,7 @@ export default function CreateRoadmap() {
           className="mb-4 sm:mb-8 text-center text-sm sm:text-base"
           style={{ color: "#A259FF" }}
         >
-          Enter any topic below and we'll create a personalized learning roadmap with weekly tasks to help you master it.
+          Enter any topic below and we&apos;ll create a personalized learning roadmap with weekly tasks to help you master it.
         </p>
 
         <form onSubmit={handleSubmit} className="space-y-4">
@@ -79,19 +82,23 @@ export default function CreateRoadmap() {
               value={topic}
               onChange={(e) => setTopic(e.target.value)}
               placeholder="e.g., Machine Learning, Web Development, Digital Marketing..."
-              className="px-3 py-2 sm:px-4 sm:py-3 rounded-lg focus:ring-2 text-[#F0E6FF] text-xs sm:text-base"
+              className="w-full px-3 py-2 sm:px-4 sm:py-3 rounded-lg focus:ring-2 text-[#F0E6FF] text-xs sm:text-base"
               style={{
                 background: "#1A1A1A", // Matte Black
                 border: "1px solid #5C2E91", // Purple Outline
                 color: "#F0E6FF"
               }}
               required
+              disabled={isLoading}
+              aria-label="Topic to generate roadmap for"
+              autoFocus
             />
           </div>
 
           <button
             type="submit"
             disabled={isLoading}
+            aria-busy={isLoading}
             className="w-full font-medium py-2 sm:py-3 px-4 rounded-lg transition duration-150 ease-in-out disabled:opacity-70 text-sm sm:text-base"
             style={{
               background: isLoading ? "#B478FF" : "#A259FF", // Electric/Vivid Purple

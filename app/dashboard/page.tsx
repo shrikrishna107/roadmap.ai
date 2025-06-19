@@ -20,14 +20,14 @@ export default function Dashboard() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const roadmapId = searchParams.get('roadmapId');
-  const { user, loading: authLoading, logout } = useAuth();
+  const { user, logout } = useAuth();
 
   // Redirect if not logged in
   useEffect(() => {
-    if (!authLoading && !user) {
+    if ( !user) {
       router.push('/');
     }
-  }, [user, authLoading, router]);
+  }, [user,  router]);
 
   // Fetch roadmaps
   useEffect(() => {
@@ -223,16 +223,16 @@ export default function Dashboard() {
     return !roadmap.isCompleted; // ongoing
   });
 
-  if (authLoading) {
-    return (
-      <div className="flex min-h-screen items-center justify-center">
-        <div className="text-center">
-          <div className="w-16 h-16 border-4 border-[#0023] border-t-transparent rounded-full animate-spin mx-auto"></div>
-          <p className="mt-4 text-[#2369]">Loading...</p>
-        </div>
-      </div>
-    );
-  }
+  // if (authLoading) {
+  //   return (
+  //     <div className="flex min-h-screen items-center justify-center">
+  //       <div className="text-center">
+  //         <div className="w-16 h-16 border-4 border-[#0023] border-t-transparent rounded-full animate-spin mx-auto"></div>
+  //         <p className="mt-4 text-[#2369]">Loading...</p>
+  //       </div>
+  //     </div>
+  //   );
+  // }
 
   if (!user) {
     return null; // Will redirect in useEffect

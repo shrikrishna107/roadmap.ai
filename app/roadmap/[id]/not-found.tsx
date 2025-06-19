@@ -1,3 +1,5 @@
+// app/roadmap/[id]/not-found.tsx
+
 import Link from 'next/link';
 import React from 'react';
 
@@ -9,7 +11,7 @@ export default function NotFound() {
           Roadmap Not Found
         </h2>
         <p className="mt-2 text-base sm:text-lg" style={{ color: "#F0E6FF" }}>
-          The roadmap you're looking for doesn't exist or has been removed.
+          The roadmap you&apos;re looking for doesn&apos;t exist or has been removed.
         </p>
         <Link
           href="/"
@@ -17,14 +19,6 @@ export default function NotFound() {
           style={{
             background: "#A259FF",
             color: "#0B0B0B",
-          }}
-          onMouseOver={e => {
-            e.currentTarget.style.background = "#B478FF";
-            e.currentTarget.style.color = "#0B0B0B";
-          }}
-          onMouseOut={e => {
-            e.currentTarget.style.background = "#A259FF";
-            e.currentTarget.style.color = "#0B0B0B";
           }}
         >
           Go Back Home
